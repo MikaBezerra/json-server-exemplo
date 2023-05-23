@@ -9,90 +9,68 @@
   "informacoes": [
     {
       "id": 1,
-      "foto": "https://picsum.photos/100/100?random=1",
+      "foto": "https://i.ibb.co/GTfSHw6/foto.jpg",
       "nome": "Mikaell Bezerra da Silva",
-      "cargo": "Dev Senior fdfs",
-      "resumo": "xfsdfsdfsdffdfsfdfdf fdsdf "
+      "cargo": "Aluno Academy 2023",
+      "resumo": "Amante das matérias exatas, Com 18 anos, assim que entrou para a faculdade de engenharia também teve a oportunidade única de ser professor de Física em um colégio público de sua cidade. No ano seguinte entrou de cabeça em lecionar através das aulas particulares, enquanto levava a faculdade em segundo plano. Em 2018 após ter certeza que a Engenharia Civil nunca iria lhe satisfazer como sonho profissional, largou a faculdade e começou a estudar para concursos, sendo aprovado como Guarda Municipal na cidade de Caruaru. Em 2020, devido a trágica pandemia mundial de Covid 19, parou de dar aulas particulares, e decidiu reativar seu sonho de adentrar na área das tecnologias, fazendo graduação EAD em Análise e Desenvolvimento de Sistemas, finalizado em 2022. No momento é aluno do Comeia Academy 2023, almejando ao final do curso, se tornar profissional capacitado para a área."
     }
   ],
   "experiencias": [
     {
-      "id": 3,
-      "titulo": "testando",
-      "descricao": "fdssdfsdfsfsd",
-      "tipo": "profissional",
+      "id": 8,
+      "titulo": "Ensino Médio - Colégio Nossa Senhora das Dores",
+      "descricao": "",
+      "tipo": "academico",
+      "anoInicio": "2007",
+      "anoFim": "2009"
+    },
+    {
+      "id": 9,
+      "titulo": "Engenharia Civil - UFPE - Curso não finalizado",
+      "descricao": "",
+      "tipo": "academico",
+      "anoInicio": "2010",
+      "anoFim": "2018"
+    },
+    {
+      "id": 10,
+      "titulo": "Análise e Desenvolvimento de Sistemas - ESTÁCIO",
+      "descricao": "",
+      "tipo": "academico",
       "anoInicio": "2020",
-      "anoFim": "2324"
+      "anoFim": "2022"
     },
     {
-      "id": 4,
-      "titulo": "Mikaell",
-      "descricao": "fdsfdsfsdfd",
-      "tipo": "academico",
-      "anoInicio": "2222",
-      "anoFim": "3333"
-    },
-    {
-      "id": 5,
-      "titulo": "testando 1",
+      "id": 11,
+      "titulo": "Professor de Física - Ensino Médio - Escola Eurico Queiroz",
       "descricao": "",
       "tipo": "profissional",
-      "anoInicio": "2222",
-      "anoFim": "3333"
+      "anoInicio": "2010",
+      "anoFim": "2010"
     },
     {
-      "id": 6,
-      "titulo": "testando 2",
-      "descricao": "",
-      "tipo": "academico",
-      "anoInicio": "1111",
-      "anoFim": "4444"
-    },
-    {
-      "id": 7,
-      "titulo": "bla bla bla",
+      "id": 12,
+      "titulo": "Professor Particular de Exatas",
       "descricao": "",
       "tipo": "profissional",
-      "anoInicio": "333333",
-      "anoFim": "2222"
+      "anoInicio": "2011",
+      "anoFim": "2020"
+    },
+    {
+      "id": 13,
+      "titulo": "Servidor Público - Caruaru - Guarda Municipal",
+      "descricao": "",
+      "tipo": "profissional",
+      "anoInicio": "2019",
+      "anoFim": "Presente"
     }
   ],
   "portfolios": [
     {
       "id": 1,
-      "link": "globo.com",
-      "image": "https://picsum.photos/100?random=1",
-      "title": "teste 1"
-    },
-    {
-      "id": 2,
-      "link": "globo.com",
-      "image": "https://picsum.photos/50/50?random=55",
-      "title": "testando 22"
-    },
-    {
-      "id": 3,
-      "link": "globo.com",
-      "image": "https://picsum.photos/50/50?random=61",
-      "title": "teste 3"
-    },
-    {
-      "id": 4,
-      "link": "globo.com",
-      "image": "https://picsum.photos/50/50?random=555",
-      "title": "teteds"
-    },
-    {
-      "id": 5,
-      "link": "globo.com",
-      "image": "https://picsum.photos/100?random=11",
-      "title": "sdgsgsdgd"
-    },
-    {
-      "id": 6,
-      "link": "globo.com",
-      "image": "https://picsum.photos/50/50?random=588",
-      "title": "gssdsdfds"
+      "link": "https://mikabezerra.github.io/Nana-Banana/index.html",
+      "image": "https://i.ibb.co/ZXfbqHq/nana.png",
+      "title": "Loja Nana Banana Vestuário"
     }
   ]
 }
